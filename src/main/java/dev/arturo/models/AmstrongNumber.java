@@ -15,7 +15,7 @@ public class AmstrongNumber {
         if (numb.equals(sum)) {
             return numbToString + " "+ "Is an Armstrong Number!!!";
         } 
-        return "Not an Armstrong Number: " + numbToString;
+        return "Not an Armstrong Number";
         
     }
 
